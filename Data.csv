@@ -1,0 +1,56 @@
+Model,Component,Revision,Domain,Regulation,Study Type,Study,Status,value
+Car1,C1 V1,R1,Crash & Safety,Euro,Frontal,Study R1 1,Pass,1
+Car1,C1 V1,R1,Crash & Safety,Euro,Side Impact,Study R1 2,Pass,0
+Car1,C1 V1,R1,Crash & Safety,Euro,Rear ,Study R1 3,Pass,1
+Car1,C1 V1,R1,Crash & Safety,Euro,Roof Crush,Study R1 4,Fail,0
+Car1,C1 V1,R1,Crash & Safety,Euro,Pedestrian,Study R1 5,Fail,0
+Car1,C1 V1,R1,Crash & Safety,Euro,Pedestrian,Study R1 6,Fail,0
+Car2,C1 V1,R1,Crash & Safety,IIHS,Frontal,Study R1 7,Pass,1
+Car1,C1 V1,R1,Crash & Safety,IIHS,Side Impact,Study R1 8,Fail,0
+Car1,C1 V1,R1,Crash & Safety,IIHS,Rear ,Study R1 9,Pass,1
+Car1,C1 V1,R1,Crash & Safety,IIHS,Roof Crush,Study R1 10,Fail,0
+Car1,C1 V1,R1,NVH,Structural Stability,Static Bending,Study R1 11,Pass,1
+Car1,C1 V1,R1,NVH,Structural Stability,Static Bending,Study R1 12,Pass,1
+Car1,C1 V1,R1,NVH,Structural Stability,Torison,Study R1 13,Fail,0
+Car1,C1 V1,R1,NVH,Structural Stability,Torison,Study R1 14,Pass,1
+Car1,C1 V2,R2,Crash & Safety,Euro,Frontal,Study R2 1,Pass,1
+Car1,C1 V2,R2,Crash & Safety,Euro,Side Impact,Study R2 2,Pass,1
+Car1,C1 V2,R2,Crash & Safety,Euro,Rear ,Study R2 3,Pass,1
+Car1,C1 V2,R2,Crash & Safety,Euro,Roof Crush,Study R2 4,Fail,0
+Car1,C1 V2,R2,Crash & Safety,Euro,Pedestrian,Study R2 5,Fail,0
+Car1,C1 V2,R2,Crash & Safety,Euro,Pedestrian,Study R2 6,Fail,0
+Car1,C1 V2,R2,Crash & Safety,IIHS,Frontal,Study R2 7,Pass,1
+Car1,C1 V2,R2,Crash & Safety,IIHS,Side Impact,Study R2 8,Fail,0
+Car1,C1 V2,R2,Crash & Safety,IIHS,Rear ,Study R2 9,Pass,1
+Car1,C1 V2,R2,Crash & Safety,IIHS,Roof Crush,Study R2 10,Fail,0
+Car1,C1 V2,R2,NVH,Structural Stability,Static Bending,Study R2 11,Pass,1
+Car1,C1 V2,R2,NVH,Structural Stability,Static Bending,Study R2 12,Pass,1
+Car1,C1 V2,R2,NVH,Structural Stability,Torison,Study R2 13,Fail,0
+Car1,C1 V2,R2,NVH,Structural Stability,Torison,Study R2 14,Pass,1
+Car1,C2 V1,R1,Crash & Safety,Euro,Frontal,Study R1 1,Pass,1
+Car1,C2 V1,R1,Crash & Safety,Euro,Side Impact,Study R1 2,Pass,1
+Car1,C2 V1,R1,Crash & Safety,Euro,Rear ,Study R1 3,Pass,1
+Car1,C2 V1,R1,Crash & Safety,Euro,Roof Crush,Study R1 4,Fail,0
+Car1,C2 V1,R1,Crash & Safety,Euro,Pedestrian,Study R1 5,Fail,0
+Car1,C2 V1,R1,Crash & Safety,Euro,Pedestrian,Study R1 6,Fail,0
+Car1,C2 V1,R1,Crash & Safety,IIHS,Frontal,Study R1 7,Pass,1
+Car1,C2 V1,R1,Crash & Safety,IIHS,Side Impact,Study R1 8,Fail,0
+Car1,C2 V1,R1,Crash & Safety,IIHS,Rear ,Study R1 9,Pass,1
+Car1,C2 V1,R1,Crash & Safety,IIHS,Roof Crush,Study R1 10,Fail,0
+Car1,C2 V1,R1,NVH,Structural Stability,Static Bending,Study R1 11,Pass,1
+Car1,C2 V1,R1,NVH,Structural Stability,Static Bending,Study R1 12,Pass,1
+Car1,C2 V1,R1,NVH,Structural Stability,Torison,Study R1 13,Fail,0
+Car1,C2 V1,R1,NVH,Structural Stability,Torison,Study R1 14,Pass,1
+Car1,C3 V1,R1,Crash & Safety,Euro,Frontal,Study R1 1,Pass,1
+Car1,C3 V1,R1,Crash & Safety,Euro,Side Impact,Study R1 2,Pass,1
+Car1,C3 V1,R1,Crash & Safety,Euro,Rear ,Study R1 3,Pass,1
+Car1,C3 V1,R1,Crash & Safety,Euro,Roof Crush,Study R1 4,Fail,0
+Car1,C3 V1,R1,Crash & Safety,Euro,Pedestrian,Study R1 5,Fail,0
+Car1,C3 V1,R1,Crash & Safety,Euro,Pedestrian,Study R1 6,Fail,0
+Car1,C3 V1,R1,Crash & Safety,IIHS,Frontal,Study R1 7,Pass,1
+Car1,C3 V1,R1,Crash & Safety,IIHS,Side Impact,Study R1 8,Fail,0
+Car1,C3 V1,R1,Crash & Safety,IIHS,Rear ,Study R1 9,Pass,1
+Car1,C3 V1,R1,Crash & Safety,IIHS,Roof Crush,Study R1 10,Fail,0
+Car1,C3 V1,R1,NVH,Structural Stability,Static Bending,Study R1 11,Pass,1
+Car1,C3 V1,R1,NVH,Structural Stability,Static Bending,Study R1 12,Pass,1
+Car1,C3 V1,R1,NVH,Structural Stability,Torison,Study R1 13,Fail,0
